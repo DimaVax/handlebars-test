@@ -1,0 +1,22 @@
+export const products = [
+    {
+        name:'apple',
+        price:100,
+    },
+    {
+        name:'banana',
+        price:200,
+    },
+    {
+        name:'kiwi',
+        price:240,
+    },
+    {
+        name:'mango',
+        price:250,
+    },
+    {
+        name:'melon',
+        price:150,
+    },
+]
